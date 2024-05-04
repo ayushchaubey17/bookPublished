@@ -29,6 +29,8 @@ function App() {
   <Route path = '/auther' element={<AutherCheckList/>}/>
   <Route path = '/blog' element={<Blog/>}/>
   <Route path ='/fq'  element = {<Faq_1/>}/>
+  <Route path ='/bookPublished'  element = {<Home_1/>}/>
+  <Route path ='*'  element = {<Home_1/>}/>
   
 </Routes>
 
