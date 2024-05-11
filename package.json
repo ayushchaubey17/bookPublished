@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ayushchaubey.github.17/<your-repository-name>/",
+  "homepage": "https://ayushchaubey.github.17/bookPublished/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
